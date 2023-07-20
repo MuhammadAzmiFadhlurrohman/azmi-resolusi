@@ -7,3 +7,5 @@ rencana bahasa azmi
 -framework Laravel
 -JavaScript
 -PHP
+-java
+-ruby
