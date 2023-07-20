@@ -10,3 +10,4 @@ rencana bahasa azmi
   -pengulangan
 -PHP
 -python
+-react js
