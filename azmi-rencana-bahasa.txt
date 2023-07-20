@@ -1,5 +1,8 @@
 rencana bahasa azmi
 -Html
 -CSS
+* -css dasar
+  -css layouting
+  -css3
 -JavaScript
 -PHP
