@@ -1,3 +1,4 @@
 azmi resolusi
 - Konsisten untuk belajar pemrograman 5 kali seminggu
 - membuat web-web baru dari pembelajaran baru
+- Mempelajari front end dan back end development
