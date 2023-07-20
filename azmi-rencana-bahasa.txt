@@ -6,4 +6,7 @@ rencana bahasa azmi
   -css3
 -framework Laravel
 -JavaScript
+  -array
+  -pengulangan
 -PHP
+-python
