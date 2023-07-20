@@ -4,5 +4,6 @@ rencana bahasa azmi
 * -css dasar
   -css layouting
   -css3
+-framework Laravel
 -JavaScript
 -PHP
